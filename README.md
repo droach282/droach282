@@ -1,8 +1,6 @@
-Greetings, earthling.  I'm droach282.  I come in peace.
+Greetings!
 
-Well, I come in good-natured evil.  You know, the kind that's less bent on violent overthrow and more on mismatching socks just to irritate you?  That kind of evil. 😈
-
-I've spent the bulk of my career as a .NET developer.  I'm currently employed at Applied Systems as a Sr. Software Engineer.
+I've spent the bulk of my career as a .NET developer.  Though currently between roles, I'm working on personal projects for Grouchy Hedgehog, LLC, of which I am sole proprietor.  If you like what you see here, you can learn more about me at [my LinkedIn profile](https://www.linkedin.com/in/dan-roach-437b415/)
 
 Current tech interests include Arduino, electronics, 3D printing, robotics, and homelabbing.  Not-so-nerdy hobbies include reading and following sports.
 
