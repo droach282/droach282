@@ -1,6 +1,6 @@
 Greetings!
 
-I've spent the bulk of my career as a .NET developer.  Though currently between roles, I'm working on personal projects for Grouchy Hedgehog, LLC, of which I am sole proprietor.  If you like what you see here, you can learn more about me at [my LinkedIn profile](https://www.linkedin.com/in/dan-roach-437b415/)
+I've spent the bulk of my career as a .NET developer.  Owner and Sole Proprietor of Grouchy Hedgehog, LLC.  If you like what you see here, you can learn more about me at [my LinkedIn profile](https://www.linkedin.com/in/dan-roach-437b415/)
 
 Current tech interests include Arduino, electronics, 3D printing, robotics, and homelabbing.  Not-so-nerdy hobbies include reading and following sports.
 
